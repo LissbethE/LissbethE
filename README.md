@@ -27,18 +27,19 @@ description(personal);
  ## About me
  
  <h4>
-💙 Programming | ✨ Design Lover | 🧡 Drawing | 🚀 Travel Lover 
+💙 Programming | ✨ Design | 🧡 Drawing | 🚀 Travel 
 </h4>
  
  <p>I am a passionate self-taught web developer, Who loves web design, programming and I always want to learn new things.</p>
  
  - I love exploring new tech stack and building cool stuffs
- - I am currently learning Full Stack Development and Graphic design
- - I like to read manga
+ - Watch anime, movie and TV shows
+ - I like to read manga and books
  - I love to cook
+ - Coffee Lover
+ - Dog Lover
  
 </div>
-
 
 ## 💻 Knowledges
 
@@ -61,9 +62,11 @@ description(personal);
 
 ## 📖 What I am currently learning / improving on
 
+- I am currently learning Graphic design and Back-End Development (To become a Full-Stack developer)
 - React
-- Backend Development (To become a Full-Stack developer)
 - Adobe Photoshop
+- I am learning English
+
 
 
 ## 🎯 What I am interested in learning at some point
@@ -73,8 +76,7 @@ description(personal);
 <img align="center"  src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 <img align="center"  src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F"> 
 
-<img align="center" alt="Sasst" src="https://img.shields.io/badge/UI%20Design-%2331A8FF.svg?style=for-the-badge&logo=%20&logoColor=white">
-<img align="center"  src="https://img.shields.io/badge/UX%20Design-DE00A5?style=for-the-badge&logo=%20&logoColor=white"> 
+<img align="center"  src="https://img.shields.io/badge/UI/UX%20Design-DE00A5?style=for-the-badge&logo=%20&logoColor=white"> 
 </div>
 
 
@@ -100,8 +102,7 @@ description(personal);
 <br/>
 <br/>
 
-
-![snake gif](https://github.com/LissbethE/LissbethE/blob/output/github-contribution-grid-snake.gif)
+ ![Snake animation](https://github.com/LissbethE/LissbethE/blob/output/github-contribution-grid-snake.svg)
 
 <br/>
 <br/>
