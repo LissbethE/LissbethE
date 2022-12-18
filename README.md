@@ -72,7 +72,12 @@ description(personal);
 <img align="center" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
 <img align="center"  src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 <img align="center"  src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F"> 
+
+<img align="center" alt="Sasst" src="https://img.shields.io/badge/UI%20Design-%2331A8FF.svg?style=for-the-badge&logo=%20&logoColor=white">
+<img align="center"  src="https://img.shields.io/badge/UX%20Design-DE00A5?style=for-the-badge&logo=%20&logoColor=white"> 
 </div>
+
+
 
 ## 🔎 Where to find me
 
@@ -83,12 +88,22 @@ description(personal);
 
 ## 📊 My GitHub Stats
 
+<br/>
+<br/>
+
 <div align="center">
   <a href="https://github.com/LissbethE">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=LissbethE&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LissbethE&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
+<br/>
+<br/>
+
+
+![snake gif](https://github.com/LissbethE/LissbethE/blob/output/github-contribution-grid-snake.gif)
+
+<br/>
 <br/>
 <br/>
 
