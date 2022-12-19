@@ -62,7 +62,7 @@ description(personal);
 
 ## 📖 What I am currently learning / improving on
 
-- I am currently learning Back-End Development (To become a Full-Stack developer)
+- I am currently learning Back-End Development (To become a Full-Stack Developer)
 - React
 - Adobe Photoshop
 - I am learning English
