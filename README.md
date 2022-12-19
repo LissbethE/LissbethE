@@ -69,7 +69,7 @@ description(personal);
 
 
 
-## 🎯 What I am interested in learning after
+## 🎯 What I am interested in learning
 
 <div style="display: inline_block">
 <img align="center" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
