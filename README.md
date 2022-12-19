@@ -62,21 +62,22 @@ description(personal);
 
 ## 📖 What I am currently learning / improving on
 
-- I am currently learning Graphic design and Back-End Development (To become a Full-Stack developer)
+- I am currently learning Back-End Development (To become a Full-Stack developer)
 - React
 - Adobe Photoshop
 - I am learning English
 
 
 
-## 🎯 What I am interested in learning at some point
+## 🎯 What I am interested in learning after
 
 <div style="display: inline_block">
-<img align="center" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
+<img align="center" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
+<img  align="center" src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white" />
 <img align="center"  src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-<img align="center"  src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F"> 
-
-<img align="center"  src="https://img.shields.io/badge/UI/UX%20Design-DE00A5?style=for-the-badge&logo=%20&logoColor=white"> 
+<img align="center"  src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F" /> 
+<img align="center"  src="https://img.shields.io/badge/UI/UX%20Design-DE00A5?style=for-the-badge&logo=%20&logoColor=white" />
+<img  align="center" src="https://img.shields.io/badge/Adobe%20Dreamweaver-072401?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=34F400"/> 
 </div>
 
 
