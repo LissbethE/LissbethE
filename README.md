@@ -30,7 +30,7 @@ description(personal);
 💙 Programming | ✨ Design | 🧡 Drawing | 🚀 Travel 
 </h4>
  
- <p>I am a passionate self-taught web developer, Who loves web design, programming and I always want to learn new things.</p>
+ <p>I am a creative, self-taught web developer who loves designing, programming, and learning new things.</p>
  
  - I love exploring new tech stack and building cool stuffs
  - Watch anime, movie and TV shows
