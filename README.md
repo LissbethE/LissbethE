@@ -22,7 +22,7 @@ description(personal);
  
 <div>
 
-<img align="right" alt="lis-pic" height="180px" style="border-radius:10px;" src="https://cdn.picrew.me/shareImg/org/202212/707090_Et2iuWEQ.png">
+<!-- <img align="right" alt="lis-pic" height="180px" style="border-radius:10px;" src="https://cdn.picrew.me/shareImg/org/202212/707090_Et2iuWEQ.png"> -->
 
  ## About me
  
@@ -75,9 +75,6 @@ description(personal);
 <img align="center" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
 <img  align="center" src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white" />
 <img align="center"  src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-<img align="center"  src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F" /> 
-<img align="center"  src="https://img.shields.io/badge/UI/UX%20Design-DE00A5?style=for-the-badge&logo=%20&logoColor=white" />
-<img  align="center" src="https://img.shields.io/badge/Adobe%20Dreamweaver-072401?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=34F400"/> 
 </div>
 
 
