@@ -1,15 +1,14 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EC7E3F&size=35&center=true&vCenter=true&width=1000&lines=Hi+There+👋;I'm+Lissbeth;Welcome!)
 
-<br/>
-
 <img src="https://github.com/LissbethE/Banner-LinkedIn/blob/main/Banner%20de%20LinkedIn%20Verde%20y%20Rosa.png" align="center" width="100%" alt="header image">
 
 <br/>
 
 <!--------------------------------------------------------------------------------------------------------------->
 
- <h4 align="center">💙 Programming | ✨ Design | 🧡 Drawing | 🚀 Travel</h4>
- <p align="center">I am a self-taught Full-Stack web developer with a passion for designing, programming, and continuous learning.</p>
+ <h3 align="center">Full Stack Web Developer</h3>
+ <h3 align="center">💙 Programming | ✨ Design | 🧡 Drawing | 🚀 Travel</h3>
+ <p align="center">I am a self-taught Full-Stack Web Developer with a passion for designing, programming, and continuous learning.</p>
 
 <!--
  ## :wink: About Me
@@ -78,28 +77,29 @@
 </br>
 <!--------------------------------------------------------------------------------------------------------------->
 
-<!--
-## Proyectos 
+
+## Projects
 <table>
 <tr>
-<td width="50%">
-<h3 align="center">Violet's Shop e-commerce website</h3>
+<td width="400px">
+<h3 align="center">Violet's Shop</h3>
 <div align="center">
-<a href="https://github.com/LissbethE/Violet-Shop" target="_blank"><img src="https://github.com/LissbethE/Violet-Shop/blob/main/uploads/violetshop.png" width="400" alt=""></a>
-<p>
+<a href="https://github.com/LissbethE/Violet-Shop" target="_blank"><img src="https://github.com/LissbethE/Violet-Shop/blob/main/uploads/H-VioletShop.png" width="400" alt=""></a>
+
 <a href="https://github.com/LissbethE/Violet-Shop" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white">
 </a>
 <a href="https://violet-shop.onrender.com/home" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40"> <- cambiar
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"> 
 </a>
+
 </p>
 <p>Violet's Shop e-commerce website was built using MERN, Redux Toolkit, React-query, React Hook Form, Authentication, and Dark mode.</p>
-</div>
-                                                                                      
+</div>                                                                                 
 </td>
+</tr>
 </table> 
--->
+
 
 <!--------------------------------------------------------------------------------------------------------------->
 
