@@ -89,7 +89,7 @@
 <a href="https://github.com/LissbethE/Violet-Shop" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white">
 </a>
-<a href="https://violet-shop.onrender.com/home" target="_blank">
+<a href="https://violet-shop.onrender.com" target="_blank">
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"> 
 </a>
 
