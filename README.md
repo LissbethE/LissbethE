@@ -8,7 +8,13 @@
 
  <h3 align="center">Full Stack Web Developer</h3>
  <h3 align="center">💙 Programming | ✨ Design | 🧡 Drawing | 🚀 Travel</h3>
- <p align="center">I am a self-taught Full-Stack Web Developer with a passion for designing, programming, and continuous learning.</p>
+ <div align="center">
+  <p>Hi! I'm Lissbeth, a self-taught Full-Stack Web Developer with a huge passion for creating amazing web applications. I love learning new things every day and putting my knowledge into practice right away. What motivates me the most is solving problems with ingenuity and creativity, I love challenges!</p>
+
+  <p>My goal is to create innovative and user-friendly web applications that make people's lives easier. I'm always looking for new opportunities to test my skills and work on exciting projects!</p>
+
+  <p>If you want to know more about me or my projects, don't hesitate to contact me.</p>
+ </div>
 
 <!--
  ## :wink: About Me
@@ -38,10 +44,11 @@
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" width="48" title="ExpressJS">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="48" title="MongoDB">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Supabase-Dark.svg" width="48" title="Supabase">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" width="48" title="AWS"> 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" title="Git"> 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="48" title="Postman">    
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" width="48"  title="Vite"> 
+
+ <!-- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" width="48" title="AWS">  -->
 </div>
 
 
@@ -49,36 +56,9 @@
 </br>
 <!--------------------------------------------------------------------------------------------------------------->
 
-
-<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> My GitHub Stats</h2>
+<h2 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> Projects</h2>
 </br>
 
-<div align="center">
-  <a href="https://github.com/LissbethE">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LissbethE&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LissbethE&layout=compact&langs_count=7&theme=codeSTACKr"/>
-</div>
-
-
-
-</br>
-</br>
-<!--------------------------------------------------------------------------------------------------------------->
-
-<h2 align="center">Let's Connect..!<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h2>
-</br>
-
-<div style="display:inline_block" align="center"> 
-  <a href = "mailto:lissbethescobar09@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/LissbethE/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>  
-
-</br>
-</br>
-<!--------------------------------------------------------------------------------------------------------------->
-
-
-## Projects
 <table>
 <tr>
 <td width="400px">
@@ -101,14 +81,44 @@
 </table> 
 
 
+</br>
+</br>
 <!--------------------------------------------------------------------------------------------------------------->
+
+<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> My GitHub Stats</h2>
+</br>
+
+<div align="center">
+  <a href="https://github.com/LissbethE">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LissbethE&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LissbethE&layout=compact&langs_count=7&theme=codeSTACKr"/>
+</div>
+
+
+
+</br>
+</br>
+<!--------------------------------------------------------------------------------------------------------------->
+
+<h2 align="center">Connect with me<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h2>
+</br>
+
+<div style="display:inline_block" align="center"> 
+  <a href = "mailto:lissbethescobar09@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/LissbethE/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>  
+
+</br>
+</br>
+<!--------------------------------------------------------------------------------------------------------------->
+
 
 <div align="center">
   
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 </div>
-
+</br>
 
 
 ⭐️ From [LissbethE](https://github.com/LissbethE)
