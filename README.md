@@ -61,10 +61,12 @@
 
 <table>
 <tr>
-<td width="400px">
+ <!-------------- 01 ------------->
+ 
+<td width="50%">
 <h3 align="center">Violet's Shop</h3>
 <div align="center">
-<a href="https://github.com/LissbethE/Violet-Shop" target="_blank"><img src="https://github.com/LissbethE/Violet-Shop/blob/main/uploads/H-VioletShop.png" width="400" alt=""></a>
+<a href="https://github.com/LissbethE/Violet-Shop" target="_blank"><img src="https://github.com/LissbethE/Violet-Shop/blob/main/uploads/H-VioletShop.png" width="100%" alt=""></a>
 
 <a href="https://github.com/LissbethE/Violet-Shop" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white">
@@ -75,6 +77,25 @@
 
 </p>
 <p>Violet's Shop e-commerce website was built using MERN, Redux Toolkit, React-query, React Hook Form, Authentication, and Dark mode.</p>
+</div>                                                                                 
+</td>
+
+<!-------------- 02 ------------->
+
+<td width="50%">
+<h3 align="center">Foodies Blog</h3>
+<div align="center">
+<a href="https://github.com/LissbethE/Foodies-Blog-App/tree/main" target="_blank"><img src="https://github.com/LissbethE/Foodies-Blog-App/blob/main/public/img/H-foodiesBlog.png" width="100%" alt=""></a>
+
+<a href="https://github.com/LissbethE/Foodies-Blog-App/tree/main" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white">
+</a>
+<a href="https://foodies-blog-app.onrender.com/" target="_blank">
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"> 
+</a>
+
+</p>
+<p>Foodies Blog is an app that includes features such as user authentication, profile setup, and recipe storage. It was created using: Pug, Sass, JavaScript, Node, Express, MongoDB, and Mongoose.</p>
 </div>                                                                                 
 </td>
 </tr>
