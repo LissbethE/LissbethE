@@ -64,7 +64,7 @@
  <!-------------- 01 ------------->
  
 <td width="50%">
-<h3 align="center">Violet's Shop</h3>
+<h3 align="center">💜 Violet's Shop</h3>
 <div align="center">
 <a href="https://github.com/LissbethE/Violet-Shop" target="_blank"><img src="https://github.com/LissbethE/Violet-Shop/blob/main/uploads/H-VioletShop.png" width="100%" alt=""></a>
 
@@ -83,7 +83,7 @@
 <!-------------- 02 ------------->
 
 <td width="50%">
-<h3 align="center">Foodies Blog</h3>
+<h3 align="center">🥣 Foodies Blog</h3>
 <div align="center">
 <a href="https://github.com/LissbethE/Foodies-Blog-App/tree/main" target="_blank"><img src="https://github.com/LissbethE/Foodies-Blog-App/blob/main/public/img/H-foodiesBlog.png" width="100%" alt=""></a>
 
