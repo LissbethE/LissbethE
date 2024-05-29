@@ -32,6 +32,7 @@
 <div align="center">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" width="48" title="Photoshop">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="48" title="Figma">
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Webflow.svg" width="48" title="Figma">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons//CSS.svg" width="48">  
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" width="48" title="Sass">
