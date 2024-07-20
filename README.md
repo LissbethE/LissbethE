@@ -36,10 +36,11 @@
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons//CSS.svg" width="48">  
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" width="48" title="Sass">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48"  title="Javascript">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="48" title="React.Js"> 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StyledComponents.svg" width="48" title="StyledComponents"> 
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="48" title="TailWindCss">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Light.svg" width="48" title="TailWindCss">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48"  title="Javascript">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="48" title="React.Js">
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Light.svg" width="48" title="NextJS"> 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Pug-Dark.svg" width="48" title="Pug">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="48" title="NodeJs">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" width="48" title="ExpressJS">
