@@ -7,7 +7,7 @@
 <!--------------------------------------------------------------------------------------------------------------->
 
  <h3 align="center">Full Stack Web Developer</h3>
- <h3 align="center">💙 Programming | ✨ Design | 🧡 Drawing | 🚀 Travel</h3>
+ <h4 align="center">💙 Programming | ✨ Design | 🧡 Drawing | 🚀 Travel</h4>
  <div align="center">
   <p>Hi! I'm Lissbeth, a self-taught Full-Stack Web Developer with a huge passion for creating amazing web applications. I love learning new things every day and putting my knowledge into practice right away. What motivates me the most is solving problems with ingenuity and creativity, I love challenges!</p>
 
