@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EC7E3F&size=35&center=true&vCenter=true&width=1000&lines=Hi+There+👋;I'm+Lissbeth;Welcome!)
 
-<img src="https://github.com/LissbethE/Banner-LinkedIn/blob/main/Banner%20de%20LinkedIn%20Verde%20y%20Rosa.png" align="center" width="100%" alt="header image">
+<img src="https://github.com/LissbethE/Linkedin-Banner/blob/main/LE-LinkedinOrangeBackground.png" align="center" width="100%" alt="header image">
 
 <br/>
 
